@@ -28,7 +28,7 @@ bot = InstaBot(login="makanw", password="makan2671379",
                # Use unwanted username list to block users which have username contains one of this string
                ## Doesn't have to match entirely example: mozart will be blocked because it contains *art
                ### freefollowers will be blocked because it contains free
-               unwanted_username_list=['second','stuff','art','project','love','life','food','blog','free','keren','photo','graphy','indo',
+               unwanted_username_list=['fan','fans','fanapage','fanpage','fans','life','food','blog','free','keren','photo','graphy','indo',
                                        'travel','art','shop','store','sex','toko','jual','online','murah','jam','kaos','case','baju','fashion',
                                         'corp','tas','butik','grosir','karpet','sosis','salon','skin','care','cloth','tech','rental',
                                         'kamera','beauty','express','kredit','collection','impor','preloved','follow','follower','gain',
